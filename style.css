@@ -6,6 +6,15 @@
     font-family: 'Roboto', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: #0C090D;
+}
+
+a:hover {
+    color: #F15946;
+}
+
 body {
     background-color: #F15946;
 }
