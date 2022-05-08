@@ -162,7 +162,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
-    color: #0C090D;
+    color: #F1F8FD;
 }
 
 .exp-company-name,
@@ -177,7 +177,7 @@ body {
 }
 
 .exp-time-period,
-.education-time-period,
+.educationp-time-period,
 .awards-time-period {
     font-size: 18px;
     letter-spacing: 1px;
